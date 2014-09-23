@@ -51,8 +51,7 @@ public class GitLab implements EntryPoint {
 	 */
 	public void onModuleLoad() 
 	{
-		
-                size = 1;
+	
 		
 	}
 	
